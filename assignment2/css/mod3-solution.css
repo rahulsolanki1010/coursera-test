@@ -1,0 +1,67 @@
+body{
+	font-size:16px;
+	background-color: #fff;
+	font-family: 'Comic Neue', cursive;
+}
+#header-nav{
+	background-color: #a39f96;
+	border-radius: 0;
+	border:0;
+}
+.navbar-brand{
+	padding-top: 25px: 
+}
+.navbar-brand h1{
+	font-family: 'Lora', serif;
+	color: #000;
+	font-size: 1.5em;
+	
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top:0;
+	margin-bottom: 0;
+	line-height: 0.75;
+}
+#nav-list{
+	border:2px solid #000;
+	margin-top: 10px;
+	background-color: #fff;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+#nav-list p{
+	
+	color: #000;
+	text-align: center;
+	font-size: 1.5em;
+
+}
+#nav-list hr{
+ 	border:1px solid #000;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #000;
+}
+#chicken{
+	color: #000;
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-bottom: 10px;
+
+}
+
+#content{
+	text-align: center;
+	font-size: 2.5em;
+	color:#000;
+	font-weight: bold;
+}
+#main-content{
+	background-color: #a39f96;
+	height: 1500px;
+	width: 80%;
+	
+}
+
+
