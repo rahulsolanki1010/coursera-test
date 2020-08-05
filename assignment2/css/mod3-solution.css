@@ -57,10 +57,10 @@ body{
 	color:#000;
 	font-weight: bold;
 }
-#main-content{
+.col-md-12, .col-sm-12,.col-xs-12{
 	background-color: #a39f96;
-	height: 1500px;
-	width: 80%;
+	
+	margin: 0 auto 30px auto;
 	
 }
 
